@@ -1,5 +1,7 @@
 # MNIST-drawing
 Trains a simple CNN on MNIST data in the trainModel.py file, and saves it as a .keras file. Then, the draw.py file lets the user test out this model by presenting them with a window to draw a single digit. With the predict button, the model will then try to predict what the user drew.
+I've added a sample model that can be used for drawing if necessary.
+
 
 ## Features
 - CNN trained on MNIST using TensorFlow/Keras
